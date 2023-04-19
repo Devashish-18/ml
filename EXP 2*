@@ -49,3 +49,9 @@ plt.title("Residual errors")
 
 ## method call for showing the plot
 plt.show()
+
+
+
+
+
+pip install scikit-learn==1.1.3
